@@ -3,7 +3,7 @@
     <depends>com.intellij.modules.rider</depends>
     <idea-version since-build="193.5233.171" until-build="193.*"/>
     <id>ConfigureAwaitChecker</id>
-    <version>0.20.0</version>
+    <version>0.20.0-local</version>
     <name>ConfigureAwait Checker</name>
     <vendor url="https://github.com/aelij/ConfigureAwaitChecker">Eli Arbel</vendor>
     <description>
